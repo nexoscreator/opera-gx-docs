@@ -1,0 +1,179 @@
+{
+    "manifest_version": 3,
+    "name": "Ironman",
+    "description": "Thank you for choosing our theme",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "version": "1.0",
+    "developer":
+    {
+        "name": "Nos Creator"
+    },
+    "mod":
+    {
+        "license": "license.txt",
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "music/track_1.mp3",
+                "music/track_2.mp3"
+            ],
+            "browser_sounds":
+            {
+                "SWITCH_TOGGLE":
+                [
+                    "sound/FeatureSwitchON.mp3"
+                ],
+                "TAB_CLOSE":
+                [
+                    "sound/CloseTab.mp3"
+                ],
+                "TAB_INSERT":
+                [
+                    "sound/NewTab.mp3"
+                ],
+                "HOVER":
+                [
+                    "sound/Hover.mp3"
+                ],
+                "HOVER_UP":
+                [
+                    "sound/Hover.mp3"
+                ],
+                "CLICK":
+                [
+                    "sound/spacebar.wav"
+                ],
+                "LIMITER_ON":
+                [
+                    "sound/FeatureSwitchON.mp3"
+                ],
+                "LIMITER_OFF":
+                [
+                    "sound/FeatureSwitchOFF.mp3"
+                ],
+                "IMPORTANT_CLICK":
+                [
+                    "sound/important_click.mp3"
+                ],
+                "FEATURE_SWITCH_ON":
+                [
+                    "sound/FeatureSwitchON.mp3"
+                ],
+                "FEATURE_SWITCH_OFF":
+                [
+                    "sound/FeatureSwitchOFF.mp3"
+                ],
+                "LEVEL_UPGRADE":
+                [
+                    "sound/level_upgrade.mp3"
+                ],
+                "TAB_SLASH":
+                [
+                    "sound/tab_slash.mp3"
+                ]
+            },
+            "keyboard_sounds":
+            {
+                "TYPING_BACKSPACE":
+                [
+                    "keyboard/clickybackspace.wav"
+                ],
+                "TYPING_ENTER":
+                [
+                    "keyboard/clickyenter.wav"
+                ],
+                "TYPING_LETTER":
+                [
+                    "keyboard/clicky1.wav",
+                    "keyboard/clicky2.wav",
+                    "keyboard/clicky3.wav",
+                    "keyboard/clicky4.wav"
+                ],
+                "TYPING_SPACE":
+                [
+                    "keyboard/clickyspace.wav"
+                ]
+            },
+            "page_styles":
+            [
+                {
+                    "matches":
+                    [
+                        "https://*.discord.com/*",
+                        "https://*.github.com/*"
+                    ],
+                    "css":
+                    [
+                        "webmodding/main.theme.css",
+                        "webmodding/changecolors.css"                    
+                    ]
+                }
+            ],
+            "shaders":
+            {
+                "Cozy Sunlights":
+                {
+                    "animation":
+                    {
+                        "duration": 60,
+                        "steps": 3600
+                    },
+                    "path": "shader/cozyanime.txt"
+                }
+            },
+            "theme":
+            {
+                "dark":
+                {
+                    "gx_accent":
+                    {
+                        "h": 0,
+                        "s": 100,
+                        "l": 50
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 0,
+                        "s": 50,
+                        "l": 100
+                    }
+                },
+                "light":
+                {
+                    "gx_accent":
+                    {
+                        "h": 0,
+                        "s": 75,
+                        "l": 50
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 0,
+                        "s": 50,
+                        "l": 75
+                    }
+                }
+            },
+            "wallpaper":
+            {
+                "dark":
+                {   
+                    "image": "wallpaper/dark.png",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#000000"
+                },
+                "light":
+                {
+                    "image": "wallpaper/light.png",
+                    "text_color": "#000000",
+                    "text_shadow": "#FFFFFF"
+                }
+            }
+        }
+    }
+}
