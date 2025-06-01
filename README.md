@@ -37,7 +37,6 @@
 - 🔍 [Best Practices](https://docs.nexoscreator.tech/opera-gx-docs/extension/best_practices)
 - 🧩 [Code Samples](https://docs.nexoscreator.tech/opera-gx-docs/extension/code_samples)
 - 🔧 [Advanced Topics](https://docs.nexoscreator.tech/opera-gx-docs/extension/advanced_topics)
-- 📱 [Code Samples](https://docs.nexoscreator.tech/opera-gx-docs/extension/code_samples)
 
 ### 🎨 Opera GX Mods
 
