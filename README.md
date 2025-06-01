@@ -6,7 +6,7 @@
 
 ## 🎮 Opera GX Docs
 
-![Project Banner](image-url)
+![Project Banner](.github/2025-06-01_083703.png)
 
 > This repository contains documentation, guides, and resources for developing **Opera GX Mods and Extensions**.
 
@@ -14,36 +14,36 @@
 
 ## 📌 Overview
 
-This repository is divided into three main sections:
+> This repository is divided into three main sections:
 
-- **📖 Docs**: Learn how to create and customize **Opera GX Mods** and **Extensions**.
-- **🛠 Extensions**: Browse and contribute to **custom Opera GX Extensions**.
-- **🎨 Mods**: Discover and develop **GX Mods** to personalize Opera GX.
-
----
+- [📖 **Docs**](https://docs.nexoscreator.tech/opera-gx-docs): Learn how to create and customize **Opera GX Mods** and **Extensions**.
+- [🛠 **Extensions**](https://docs.nexoscreator.tech/opera-gx-docs/extension): Browse and contribute to **custom Opera GX Extensions**.
+- [🎨 **Mods**](https://docs.nexoscreator.tech/opera-gx-docs/mods): Discover and develop **GX Mods** to personalize Opera GX.
+- [❓ **FAQ**](https://docs.nexoscreator.tech/opera-gx-docs/faq): Fix loading issues, test mods offline, and more.
+- [📚 **Links**](https://docs.nexoscreator.tech/opera-gx-docs/resources): All the tools and resources for creating awesome mods.
 
 ## 📚 Documentation
 
 ### 🛠 Opera GX Extensions
 
-Create, develop, and publish extensions for Opera GX.
+> Create, develop, and publish extensions for Opera GX.
 
-📌 **Docs for Extensions:**
+[📌 **Docs for Extensions:**](https://docs.nexoscreator.tech/opera-gx-docs/extension)
 
 - 🚀 [Introduction](https://docs.nexoscreator.tech/opera-gx-docs/extension)
 - 🏁 [Getting Started](https://docs.nexoscreator.tech/opera-gx-docs/extension/getting_started)
+- 🎨 [Step by Step Guide](https://docs.nexoscreator.tech/opera-gx-docs/extension/step_by_step)
 - 🏗 [Key Concepts](https://docs.nexoscreator.tech/opera-gx-docs/extension/key_concepts)
 - 🔍 [Best Practices](https://docs.nexoscreator.tech/opera-gx-docs/extension/best_practices)
 - 🧩 [Code Samples](https://docs.nexoscreator.tech/opera-gx-docs/extension/code_samples)
 - 🔧 [Advanced Topics](https://docs.nexoscreator.tech/opera-gx-docs/extension/advanced_topics)
-- 🚀 [Publishing](https://docs.nexoscreator.tech/opera-gx-docs/extension/publishing)
-
+- 📱 [Code Samples](https://docs.nexoscreator.tech/opera-gx-docs/extension/code_samples)
 
 ### 🎨 Opera GX Mods
 
-Customize **Opera GX** with interface modifications, sounds, effects, and more!
+> Customize **Opera GX** with interface modifications, sounds, effects, and more!
 
-📌 **Docs for Mods:**
+[📌 **Docs for Mods:**](https://docs.nexoscreator.tech/opera-gx-docs/mods)
 
 - 🚀 [Introduction](https://docs.nexoscreator.tech/opera-gx-docs/mods)
 - 🏁 [Getting Started](https://docs.nexoscreator.tech/opera-gx-docs/mods/getting_started)
@@ -52,20 +52,14 @@ Customize **Opera GX** with interface modifications, sounds, effects, and more!
 - 🎵 [Sound Mods](https://docs.nexoscreator.tech/opera-gx-docs/mods/sounds)
 - ✨ [Effects & Shaders](https://docs.nexoscreator.tech/opera-gx-docs/mods/effects)
 - 📱 [Mobile Customization](https://docs.nexoscreator.tech/opera-gx-docs/mods/mobile_config)
-- 🔎 [Testing & Debugging](https://docs.nexoscreator.tech/opera-gx-docs/mods/testing-and-debugging)
+- 🔎 [Testing & Debugging](hhttps://docs.nexoscreator.tech/opera-gx-docs/mods/troubleshooting)
 - 🚀 [Publishing](https://docs.nexoscreator.tech/opera-gx-docs/mods/publishing)
 
 ---
 
 ## 🔌 Our Extensions
 
-Opera GX Extensions developed by our team.
-
-### 🆕 New Mods
-
-- 🚀 _Coming Soon!_
-
-### 🏗 Older Mods
+> Opera GX Extensions developed by our team.
 
 - 🎖 **Discord RPC Status**: Archived
 
@@ -73,16 +67,13 @@ Opera GX Extensions developed by our team.
 
 ## 🎭 Our Mods
 
-### 🆕 New Mods
+> Opera GX Mods developed by our team.
 
-- 🛰 **[NexSci-Fi Preview](https://store.gx.me/mods/f4px4h/nexsci-fi-preview/)**
-
-### 🏗 Older Mods
-
-- 🎖 [Battlefield 2042](./mods/gxmod-battelfaild2042/)
-- 🛠 [Developer Mod](./mods/gxmod-dev/)
-- 🤖 [Ironman](./mods/gxmod-ironaman/)
-- 💡 [Lite Theme](./mods/gxmod-lite/)
+- [🛰 **NexSci-Fi Preview**](https://store.gx.me/mods/f4px4h/nexsci-fi-preview/)
+- [🎖 **Battlefield 2042**](https://store.gx.me/mods/kern5c/battelfaild-2042/)
+- [🛠 **Developer Mod**](https://store.gx.me/mods/s0bp0s/dev-mods/)
+- [🤖 **Ironman**](https://store.gx.me/mods/fkry2u/ironman-v2/)
+- [💡 **Lite Theme**](https://store.gx.me/mods/30dpbu/lite/)
 
 ---
 
